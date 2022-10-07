@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 987239461
+CRC: 299994750
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: deb774ecdb4c0a73aab1a226af68a417
+    Hash: 563cd84fda82295e73d94b46d9235bc9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1848cfd019ebe6ef89967c6f90f2a3d4
@@ -14,5 +14,4 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
-- Assets/Oculus/Interaction/Runtime/Shaders/OculusHand.shader
 Dependencies: []

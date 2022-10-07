@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1631259350
+CRC: 2227005949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f982daa31a2835a91a3c4070d49ab8cf
+    Hash: 13063963f241f97b38344e70a3a8d451
   TypeTreeHash:
     serializedVersion: 2
     Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
@@ -15,14 +15,11 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandController_r_.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
-- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandController_l_.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
 Dependencies:
-- C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_anim0
 - C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_fbx0

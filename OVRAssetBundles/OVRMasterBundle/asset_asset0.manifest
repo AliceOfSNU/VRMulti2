@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2084982456
+CRC: 1966836280
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cbca263272b7df2be82a0a1a3542fd8b
+    Hash: f425349fb109eb7edc3364ee84f60cc4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 83e1601e9d24e5e29c26d16efd3e25d5
+    Hash: 81c57d728c1dd4e80d67713a19c592ed
 HashAppended: 0
 ClassTypes:
 - Class: 114
@@ -17,15 +17,9 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: c5af6ab9d1bd4a47970ad151090281f3, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
-- AssemblyName: Oculus.Interaction
-  ClassName: Oculus.Interaction.PoseDetection.FingerFeatureStateThreshold
-- AssemblyName: Oculus.Interaction
-  ClassName: Oculus.Interaction.PoseDetection.FingerFeatureThresholds
 - AssemblyName: Unity.RenderPipelines.Core.Runtime
   ClassName: UnityEngine.Rendering.BoolParameter
 - AssemblyName: Unity.RenderPipelines.Core.Runtime
@@ -43,9 +37,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.RenderPipelines.Universal.Runtime
   ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
 Assets:
-- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/MiddleFingerFeatureStateThresholds.asset
 - Assets/Settings/SampleSceneProfile.asset
-- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/DefaultThumbFeatureStateThresholds.asset
-- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/DefaultFingerFeatureStateThresholds.asset
-- Assets/Oculus/Interaction/Runtime/DefaultSettings/PoseDetection/IndexFingerFeatureStateThresholds.asset
 Dependencies: []

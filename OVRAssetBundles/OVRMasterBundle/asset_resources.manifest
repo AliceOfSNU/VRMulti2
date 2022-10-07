@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1285477614
+CRC: 2862192602
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6246fca768a1113382553d9ef7fecc79
+    Hash: 7fca7e60a30d5b99054ae5411ca2c886
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 00cf31943438aa7edffaf662fd63a30b
+    Hash: 04097b6ec3bc038aed655e320ebc66bd
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,6 +17,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -34,6 +36,7 @@ Assets:
 - Assets/Oculus/Voice/Lib/Wit.ai/Resources/wit-ai-title.png
 - Assets/Oculus/Interaction/Runtime/Resources/Shaders/DepthOverwrite.shader
 - Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Resources/OculusRuntimeSettings.asset
 - Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
 - Assets/Resources/OVRBuildConfig.asset
 - Assets/Oculus/Interaction/Runtime/Resources/Shaders/UnderlayTransparentOccluderImposter.shader

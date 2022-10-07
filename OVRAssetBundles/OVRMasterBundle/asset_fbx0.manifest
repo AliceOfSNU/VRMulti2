@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2619699232
+CRC: 2862834903
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7ca0c24770b77c17e5f5a757d9e2c72d
+    Hash: 631765ed93492921aac8cbb262327d3e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7beb324cc314c1f10e853cecb8be4eb0
@@ -30,14 +30,11 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
-- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
-- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
-- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
 Dependencies:
 - C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_shader0
 - C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

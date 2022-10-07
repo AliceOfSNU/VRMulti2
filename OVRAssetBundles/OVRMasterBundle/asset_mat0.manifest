@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 753074704
+CRC: 1547226997
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1fb2387e83ae920de7b9e001e28b1195
+    Hash: ee0ef53a39ac3d4d12e2bb39fa5326e8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 82515b3694a1e5beae009c48c1198c34
@@ -19,10 +19,8 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
-- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
 - Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
 - Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
-- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
 Dependencies:
 - C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_png0
 - C:/XReal/VRMulti2/OVRAssetBundles/OVRMasterBundle/asset_shader0
