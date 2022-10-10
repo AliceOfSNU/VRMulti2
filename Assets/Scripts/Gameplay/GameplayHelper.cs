@@ -10,8 +10,8 @@ public class GameplayHelper : MonoBehaviour
     [SerializeField] private Transform _centerCameraTransform;
     public Transform CenterCameraTransform { get => _centerCameraTransform; }
 
-    [SerializeField] private OVRPlayerController _ovrController;
-    public OVRPlayerController OVRController { get => _ovrController; }
+    [SerializeField] private GameObject _ovrController;
+    public GameObject OVRController { get => _ovrController; }
 
 
     void Awake()
